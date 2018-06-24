@@ -39,8 +39,9 @@ Generate hitboxes
 ``Spacebar`` -> **Ragdoll tools pie menu** -> **Generate hitboxes**
 
 <div align="left">
-<img   src= "https://raw.githubusercontent.com/xbodya13/random/master/img1.png"><br><br>
+<img   src= "https://raw.githubusercontent.com/xbodya13/random/master/s1.png"><br><br>
 </div>
+
 
 This operator generates hitboxes from mesh object or bones.
 
@@ -49,7 +50,17 @@ Hitbox shape is based on vertex group,so your mesh should have vertex group with
 If yor model already parented to armature,you have it.And if not ,you can get them py parenting your object to armature with automatic weights,for example.
 
 Output hitbox shape can be of several different types.
+
 Here how they looks:
+
+
+
+<div align="left">
+<img   src= "https://raw.githubusercontent.com/xbodya13/random/master/modes.png"><br><br>
+</div>
+
+
+
 
 To generate hitboxes from bones you should select at least one armature and set **Generate from :** to **Bones**
 Hitboxes generated this way can have box or capsule shape.
@@ -109,7 +120,7 @@ Generate rigid body contraints
 
 
 <div align="left">
-<img   src= "https://raw.githubusercontent.com/xbodya13/random/master/img5.png"><br><br>
+<img   src= "https://raw.githubusercontent.com/xbodya13/random/master/s2.png"><br><br>
 </div>
 
 
